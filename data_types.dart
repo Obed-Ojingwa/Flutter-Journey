@@ -23,4 +23,8 @@ void main() {
   // Dynamic
   dynamic his_name = "Vanilla";
   print(his_name);
+
+  String named = "20";
+
+  print(named.toString());
 }
